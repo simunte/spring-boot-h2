@@ -1,0 +1,5 @@
+com/tommi/repo/spring/boot/h2/repository/UserRepository.class
+com/tommi/repo/spring/boot/h2/Application.class
+com/tommi/repo/spring/boot/h2/domain/User.class
+com/tommi/repo/spring/boot/h2/web/UserController.class
+com/tommi/repo/spring/boot/h2/service/UserService.class
